@@ -1,0 +1,5 @@
+Workflow ID,Timestamp,Step,Action Performed,Duration (seconds),Notes
+WF-004,2024-07-15 10:00,1 - Receipt Upload,Employee uploads receipt image,60,
+WF-004,2024-07-15 10:02,2 - Data Extraction (Manual),System unable to automatically extract data (requires manual entry),180,
+WF-005,2024-07-15 09:00,1 - Invoice Receipt,Invoice received via email,60,Invoice from new vendor
+WF-005,2024-07-15 09:30,2 - Data Validation,System flags missing vendor information,120,Manual data entry required
